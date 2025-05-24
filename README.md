@@ -1,0 +1,1 @@
+Program created to hep create DIM Wishlists. Still currently in production and not actually useable. Will eventualy make builds where you will only have to enter your own API key to be able to use the program.
